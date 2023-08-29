@@ -1,0 +1,2 @@
+# culturaIntelectual
+Trabajo practico 
